@@ -10,3 +10,5 @@ Finished Board Top View
 ![alt text](https://github.com/Sd4Projects/MiniProtoBoard/blob/main/miniProtoBoard.jpg?raw=true "finishedboard")
 
 To be used with MiniZ21G18 Version 4
+
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/lqnpJjjK with project name MiniProtoBoard_v4b.kicad_pcb or use source files and order from whoever you want.
